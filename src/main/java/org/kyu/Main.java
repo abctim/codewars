@@ -1,4 +1,4 @@
-package org.abctim;
+package org.kyu;
 
 public class Main {
     public static void main(String[] args) {
