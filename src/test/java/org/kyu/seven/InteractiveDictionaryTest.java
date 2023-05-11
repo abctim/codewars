@@ -1,7 +1,6 @@
-package seven;
+package org.kyu.seven;
 import org.junit.Test;
 import static org.junit.Assert.assertEquals;
-import org.kyu.seven.InteractiveDictionary;
 
 public class InteractiveDictionaryTest {
     @Test
